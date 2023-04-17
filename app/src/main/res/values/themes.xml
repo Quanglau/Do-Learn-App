@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DoLearn" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/main</item>
+        <item name="colorPrimaryDark">#47bcaa</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <item name="colorPrimaryVariant">#47bcaa</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.MaterialTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/sub</item>
+        <item name="colorPrimaryDark">@color/sub</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>
